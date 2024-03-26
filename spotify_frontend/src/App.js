@@ -69,7 +69,7 @@ function App() {
 }
 
 const HelloComponent = () => {
-    return <div>This is hello from component</div>;
+    return <div>"/login"</div>;
 };
 
 export default App;
